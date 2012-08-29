@@ -19,6 +19,9 @@ let g:CommandTAcceptSelectionSplitMap=['<CR>', '<C-g>']
 set wildignore+=**/tmp/**,log/**,**/uploads/**
 set nolist
 set nonumber
+set tags+=gems.tags
+
+let NERDTreeIgnore = ['.zeus.sock']
 
 let g:github_token = 'dfad590151b54fc03b1c17107724a4cd'
 
