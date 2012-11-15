@@ -1,7 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Users/karl/.rvm/gems/ruby-1.9.3-p125@abd/gems/poltergeist-0.7.0'
-let g:netrw_dirhist_2='/Users/karl/.rvm/gems/ruby-1.9.3-p125-perf@pinbx/bundler/gems/sidekiq-f235f6770144'
-let g:netrw_dirhist_3='/Users/karl/.rvm/gems/ruby-1.9.3-p194-perf@global'
-let g:netrw_dirhist_4='/Users/karl/.rvm/gems/ruby-1.9.3-p194-perf@global/gems/zeus-0.4.4'
-let g:netrw_dirhist_5='/Users/karl/.rvm/gems/ruby-1.9.3-p194-perf@viewthespace/gems/googlecharts-1.6.8'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/karl/.rvm/gems/ruby-1.9.3-p286@viewthespace/bundler/gems/linkedin-a120e70bf44e'
+let g:netrw_dirhist_2='/Users/karl/workspace/abd'
+let g:netrw_dirhist_3='/Users/karl/workspace/viewthespace/app/assets/javascripts/application'

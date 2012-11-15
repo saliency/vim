@@ -45,3 +45,4 @@ augroup BgHighlight
 augroup END
 
 au BufRead,BufNewFile *.scss set filetype=scss
+au BufRead,BufNewFile *.rabl setf ruby
